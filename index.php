@@ -3,7 +3,7 @@
 	<head id="toolset_head">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>PS3 Toolset by @bguerville</title>
+		<title>Playstation 3 - Toolset</title>
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 		<script type='text/javascript' src="js/logger.min.js"></script>
@@ -848,7 +848,8 @@
 	<body id="BodyID" class="ui-helper-hidden" style="overflow: hidden;height:auto;visibility:hidden;">
 		<div class="pre-loader preloader ui-helper-hidden"><div class="container-busy-icon"><div class="busy-icon"></div></div></div>
 		<div id="title" class="ui-helper-hidden main-title ui-widget-header ui-corner-all" style="-webkit-border-bottom-left-radius:0px !important;-webkit-border-bottom-right-radius:0px !important;">
-			<h1 style="text-align:left;height:30px;max-height:30px;">PlayStation 3 Toolset <span class='header-small-text'>by @bguerville</span></h1>
+			<h1 style="text-align:left;height:30px;max-height:30px;">PlayStation 3 Toolset <span class='header-small-text'>by @bguerville - hosted by @xcibe95x</span> <a class="logbtn ui-checkboxradio-label ui-corner-all ui-button ui-widget ui-checkboxradio-checked ui-state-active" style="font-size: 10px; color: orangered" href="https://discord.com/invite/pzRDBKXMZu">Join Discord for Help</a></h1>
+			<p>For 4.80 - 4.89 Firmware, May brick console on firmwares before 4.87, use at your own risk.</p>
 			<h4 id='ps3details' class="ps3-details">Initializing PS3 Toolset v1.2 <span class='header-small-text'>build 004</span><br/>Please Wait</h4>
 			<form action="#">
 				<select id="themes" >
