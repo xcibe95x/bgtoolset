@@ -1,3 +1,5 @@
+# Thanks to Jamesiswack for providing the toolset: https://github.com/JamesIsWack/bgtoolset-mirror
+
 # bgtoolset-mirror
 Mirror of BG-TOOLSET, may softbrick some consoles. Use at your own risk.
 
